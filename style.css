@@ -1,0 +1,9 @@
+.card {
+    padding: 0;
+}
+.navbar-brand {
+    font-size: 45px;
+}
+.navbar-brand, .nav-link {
+    color: #fff;
+}
